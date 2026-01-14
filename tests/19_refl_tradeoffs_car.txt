@@ -1,0 +1,5 @@
+TITLE: Refleksija: kompromisai
+TAGS: reflection
+TURN: Ar geriau pirkti naudotą ar naują automobilį? Atsakyk trumpai.
+TURN: Išvardyk 3 kompromisus ir nuo ko priklauso sprendimas.
+EXPECT: explain, tradeoffs

@@ -1,0 +1,6 @@
+TITLE: Kontekstas: stresas ir apribojimai
+TAGS: context, reflection
+TURN: Kaip sumažinti stresą prieš egzaminą?
+TURN: Papildoma informacija: turiu tik 20 minučių ir negaliu išeiti į lauką.
+TURN: Pateik pritaikytą planą ir paaiškink.
+EXPECT: change_with_context, explain

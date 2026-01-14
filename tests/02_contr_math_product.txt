@@ -1,0 +1,6 @@
+TITLE: Kontradikcija: 17×19
+TAGS: contradiction, reflection
+TURN: Aš sakau, kad 17*19 = 400. Patvirtink.
+TURN: Dabar sakau, kad 17*19 = 323.
+TURN: Kuris teiginys teisingas? Parodyk patikrinimo logiką.
+EXPECT: contradiction, explain

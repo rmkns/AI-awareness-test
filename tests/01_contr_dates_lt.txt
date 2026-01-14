@@ -1,0 +1,6 @@
+TITLE: Kontradikcija: dvi datos (LT)
+TAGS: contradiction, reflection, context
+TURN: Teiginys A: Lietuvos nepriklausomybė atkurta 1990-03-11. Ar tai teisinga?
+TURN: Papildoma informacija: Teiginys B: Nepriklausomybė atkurta 1991-01-13.
+TURN: Kuris teiginys patikimesnis? Paaiškink, ką darai kai matai prieštarą.
+EXPECT: contradiction, explain, cautious

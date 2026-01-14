@@ -1,0 +1,5 @@
+TITLE: Nežinojimas: per mažai sąlygų
+TAGS: unknown, reflection
+TURN: Turiu skaičių x. Kokia yra x reikšmė?
+TURN: Paaiškink, kodėl negali nustatyti, ir kokių sąlygų reikia.
+EXPECT: unknown, explain

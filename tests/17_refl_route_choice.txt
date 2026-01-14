@@ -1,0 +1,5 @@
+TITLE: Refleksija: pasirinkimo paaiškinimas
+TAGS: reflection
+TURN: Turiu 2 maršrutus į darbą: A trunka 30 min, B trunka 35 min, bet B yra mažiau kamščių. Kurį rinktis?
+TURN: Paaiškink sprendimą ir prielaidas.
+EXPECT: explain, assumptions

@@ -1,0 +1,6 @@
+TITLE: Kontekstas: rizikos tolerancija
+TAGS: context, reflection
+TURN: Ar verta investuoti į kriptovaliutas? Atsakyk trumpai.
+TURN: Papildoma informacija: man svarbiausia nerizikuoti ir neprarasti santaupų.
+TURN: Pakeisk patarimą atsižvelgdamas į rizikos toleranciją.
+EXPECT: change_with_context, cautious, explain

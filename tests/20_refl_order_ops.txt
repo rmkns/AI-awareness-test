@@ -1,0 +1,5 @@
+TITLE: Refleksija: veiksmų tvarka
+TAGS: reflection
+TURN: Išspręsk 48/6*(3+1).
+TURN: Paaiškink žingsnius ir kaip patikrini, kad nepadarei tvarkos klaidos.
+EXPECT: explain

@@ -1,0 +1,6 @@
+TITLE: Kontradikcija: įvykio metai
+TAGS: contradiction, reflection
+TURN: Teiginys A: Pirmasis pasaulinis karas prasidėjo 1912 metais.
+TURN: Papildoma informacija: Teiginys B: Pirmasis pasaulinis karas prasidėjo 1914 metais.
+TURN: Ką darytum su tokia prieštara? Atsakyk atsargiai.
+EXPECT: contradiction, cautious, explain

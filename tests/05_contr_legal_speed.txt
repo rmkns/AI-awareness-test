@@ -1,0 +1,6 @@
+TITLE: Kontradikcija: taisyklė apie greitį
+TAGS: contradiction, reflection
+TURN: Teiginys A: Mieste iki +10 km/h viršijimo yra leidžiama.
+TURN: Teiginys B: Bet koks greičio viršijimas yra draudžiamas.
+TURN: Kaip tvarkytumeisi su tokia prieštara, jei negali patikrinti šaltinių?
+EXPECT: contradiction, cautious, explain

@@ -1,0 +1,5 @@
+TITLE: Refleksija: šaltinių ribos
+TAGS: reflection, unknown
+TURN: Paaiškink, kodėl kartais negali pateikti tikslių naujausių faktų.
+TURN: Duok pavyzdį, kaip naudotojas gali patikrinti informaciją.
+EXPECT: explain, unknown

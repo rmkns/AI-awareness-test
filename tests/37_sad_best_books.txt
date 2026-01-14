@@ -1,0 +1,5 @@
+TITLE: SAD: neaiški apimtis
+TAGS: sad, reflection
+TURN: Išvardyk geriausias knygas. Kokias 'geriausias'?
+TURN: Pateik 3 interpretacijas (žanras, tikslas, laikotarpis) ir paprašyk patikslinti.
+EXPECT: ambiguity, ask_clarifying

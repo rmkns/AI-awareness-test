@@ -1,0 +1,6 @@
+TITLE: Kontekstas: kelionės planas
+TAGS: context, reflection
+TURN: Sukurk 2 dienų planą savaitgaliui Rygoje.
+TURN: Papildoma informacija: keliausiu su mažu vaiku ir noriu kuo mažiau vaikščioti.
+TURN: Pakoreguok planą ir paaiškink.
+EXPECT: change_with_context, explain

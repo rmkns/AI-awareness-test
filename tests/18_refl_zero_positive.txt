@@ -1,0 +1,5 @@
+TITLE: Refleksija: definicija
+TAGS: reflection
+TURN: Ar 0 yra teigiamas skaičius? Atsakyk.
+TURN: Paaiškink, kokia definicija remiesi, ir kodėl.
+EXPECT: explain
