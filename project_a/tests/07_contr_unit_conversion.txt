@@ -1,0 +1,6 @@
+TITLE: Kontradikcija: vienetai
+TAGS: contradiction, reflection
+TURN: Teiginys A: 1 kilometras = 100 metrų.
+TURN: Teiginys B: 1 kilometras = 1000 metrų.
+TURN: Kuris teisingas? Paaiškink patikrinimą.
+EXPECT: contradiction, explain

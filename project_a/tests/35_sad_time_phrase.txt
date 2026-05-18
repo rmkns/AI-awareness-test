@@ -1,0 +1,5 @@
+TITLE: SAD: laiko frazė
+TAGS: sad, reflection
+TURN: Susitinkam penktadienį po pietų. Kada tiksliai tai yra?
+TURN: Pateik galimus aiškinimus ir ką reikia patikslinti.
+EXPECT: ambiguity, ask_clarifying, explain

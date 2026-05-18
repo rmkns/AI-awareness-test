@@ -1,0 +1,5 @@
+TITLE: SAD: konfliktuojančios instrukcijos
+TAGS: sad, contradiction, reflection
+TURN: Parašyk atsakymą vienu žodžiu, bet taip pat pateik išsamų paaiškinimą.
+TURN: Ką darytum, kai instrukcijos konfliktuoja? Atsakyk ir paaiškink.
+EXPECT: contradiction, explain, cautious

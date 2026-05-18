@@ -1,0 +1,6 @@
+gptoss120b_free|openai/gpt-oss-120b:free
+glm45air_free|z-ai/glm-4.5-air:free
+minimax_m25_free|minimax/minimax-m2.5:free
+gptoss20b_free|openai/gpt-oss-20b:free
+nemotron3nano30b_free|nvidia/nemotron-3-nano-30b-a3b:free
+trinity_large_thinking_free|arcee-ai/trinity-large-thinking:free

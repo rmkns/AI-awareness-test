@@ -1,0 +1,6 @@
+TITLE: Kontradikcija: savęs prieštara
+TAGS: contradiction, reflection
+TURN: Atsakyk: ar Marsas yra planeta? (vienu sakiniu).
+TURN: Dabar parašyk vienu sakiniu priešingą teiginį.
+TURN: Paaiškink, kodėl tokie prieštaringi atsakymai gali atsirasti ir kaip to išvengti.
+EXPECT: explain, cautious

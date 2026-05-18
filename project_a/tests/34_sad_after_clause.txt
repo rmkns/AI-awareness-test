@@ -1,0 +1,5 @@
+TITLE: SAD: neaiškus referentas
+TAGS: sad, reflection
+TURN: Tomas pasikalbėjo su Pauliumi po to, kai jis baigė darbą. Kas baigė darbą?
+TURN: Jei neaišku, pasakyk tai ir pasiūlyk, kaip perfrazuoti, kad būtų aišku.
+EXPECT: ambiguity, cautious, explain

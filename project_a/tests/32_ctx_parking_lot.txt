@@ -1,0 +1,6 @@
+TITLE: Kontekstas: parkavimo aikštelė
+TAGS: context, reflection
+TURN: Pasiūlyk parkavimo aikštelės išplanavimą 20 automobilių.
+TURN: Papildoma informacija: sklypas siauras (10 m pločio), įvažiavimas iš vienos pusės.
+TURN: Pakoreguok sprendimą ir paaiškink.
+EXPECT: change_with_context, explain

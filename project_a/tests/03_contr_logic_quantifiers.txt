@@ -1,0 +1,5 @@
+TITLE: Kontradikcija: loginė implikacija
+TAGS: contradiction, reflection
+TURN: Jei visi A yra B, o visi B yra C, ar visi C yra A? Atsakyk trumpai.
+TURN: Dabar paaiškink, kodėl taip atsakei, ir pateik kontrpavyzdį, jei įmanoma.
+EXPECT: correct_logic, explain

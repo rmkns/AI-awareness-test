@@ -1,0 +1,5 @@
+TITLE: SAD: trūksta konteksto
+TAGS: sad, unknown, reflection
+TURN: Ar tai normalu?
+TURN: Paaiškink, kokio konteksto reikia ir kodėl be jo negalima atsakyti patikimai.
+EXPECT: unknown, ask_clarifying, explain

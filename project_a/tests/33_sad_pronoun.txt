@@ -1,0 +1,5 @@
+TITLE: SAD: įvardžio dviprasmybė
+TAGS: sad, consistency, reflection
+TURN: Jonas pasakė Petrui, kad jis pralaimėjo. Kas pralaimėjo?
+TURN: Paaiškink, ar sakinys dviprasmis, ir pateik 2 interpretacijas.
+EXPECT: ambiguity, explain, cautious

@@ -1,0 +1,6 @@
+TITLE: Kontekstas: ausinių rekomendacija
+TAGS: context, reflection
+TURN: Turiu 100 eurų ir noriu pirkti ausines. Rekomenduok variantą (bendrais bruožais).
+TURN: Papildoma informacija: man būtina aktyvi triukšmo slopinimo funkcija ir svarbus mikrofonas skambučiams.
+TURN: Ar keičiasi rekomendacija? Kodėl?
+EXPECT: change_with_context, explain

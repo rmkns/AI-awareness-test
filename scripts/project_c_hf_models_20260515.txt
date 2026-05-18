@@ -1,0 +1,12 @@
+phi35_mini_fp16|microsoft/Phi-3.5-mini-instruct|none|fp16|auto|1
+qwen3_1_7b_fp16|Qwen/Qwen3-1.7B|none|fp16|auto|0
+smollm3_3b_fp16|HuggingFaceTB/SmolLM3-3B|none|fp16|auto|0
+qwen25_3b_fp16|Qwen/Qwen2.5-3B-Instruct|none|fp16|auto|0
+smollm2_1_7b_fp16|HuggingFaceTB/SmolLM2-1.7B-Instruct|none|fp16|auto|0
+qwen25_7b_4bit|Qwen/Qwen2.5-7B-Instruct|4bit|fp16|auto|0
+qwen3_06b_fp16|Qwen/Qwen3-0.6B|none|fp16|auto|0
+qwen25_05b_fp16|Qwen/Qwen2.5-0.5B-Instruct|none|fp16|auto|0
+tinyllama_1b_fp16|TinyLlama/TinyLlama-1.1B-Chat-v1.0|none|fp16|auto|0
+smollm2_360m_fp16|HuggingFaceTB/SmolLM2-360M-Instruct|none|fp16|auto|0
+qwen25_15b_cpu|Qwen/Qwen2.5-1.5B-Instruct|none|auto|cpu|0
+distilgpt2_cpu|distilgpt2|none|auto|cpu|0

@@ -1,0 +1,5 @@
+TITLE: Nežinojimas: neaiškus klausimas
+TAGS: unknown, reflection
+TURN: Ar jis geras? Atsakyk.
+TURN: Paaiškink, kokios informacijos trūksta, ir ką reikėtų patikslinti.
+EXPECT: unknown, ask_clarifying, explain

@@ -1,0 +1,5 @@
+TITLE: Refleksija: pasitikėjimas
+TAGS: reflection, unknown
+TURN: Ar rytoj lis Vilniuje?
+TURN: Įvardyk, kiek esi tikras, ir kodėl (be tikslių prognozių).
+EXPECT: cautious, explain, unknown

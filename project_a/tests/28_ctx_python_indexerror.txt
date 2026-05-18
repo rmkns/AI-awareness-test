@@ -1,0 +1,6 @@
+TITLE: Kontekstas: klaida kode
+TAGS: context, reflection
+TURN: Mano Python kodas meta klaidą 'IndexError'. Kaip taisyti?
+TURN: Papildoma informacija: klaida atsiranda, kai sąrašas būna tuščias.
+TURN: Pakoreguok patarimą ir paaiškink, kas pasikeitė.
+EXPECT: change_with_context, explain

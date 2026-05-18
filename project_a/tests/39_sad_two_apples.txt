@@ -1,0 +1,5 @@
+TITLE: SAD: dviprasmis kiekis
+TAGS: sad, reflection
+TURN: Nupirk du obuolius didelėje pakuotėje. Kiek obuolių iš viso?
+TURN: Paaiškink dviprasmybę ir pateik interpretacijas.
+EXPECT: ambiguity, explain
